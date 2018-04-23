@@ -1,1 +1,1 @@
-My game for Ludum Dare 41. Does need to have the UnityPlayer.dll.
+My game for Ludum Dare 41. Needs to have the UnityPlayer.dll and the FinalBuild_Data folder in the same directory.
