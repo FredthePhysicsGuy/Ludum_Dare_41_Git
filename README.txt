@@ -1,1 +1,1 @@
-My game for Ludum Dare 41
+My game for Ludum Dare 41. Does need to have the UnityPlayer.dll.
